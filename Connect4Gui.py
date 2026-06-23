@@ -14,7 +14,7 @@ RED = (255, 0, 0)
 YELLOW = (255, 255, 0)
 WHITE = (255, 255, 255)
 
-SQUARESIZE = 100
+SQUARESIZE = 70
 RADIUS = SQUARESIZE // 2 - 5
 
 class Connect4Gui:

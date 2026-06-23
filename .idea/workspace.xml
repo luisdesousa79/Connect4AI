@@ -90,7 +90,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777996237159</updated>
-      <workItem from="1777996238348" duration="15063000" />
+      <workItem from="1777996238348" duration="15821000" />
+      <workItem from="1779448382107" duration="1361000" />
     </task>
     <servers />
   </component>
@@ -99,6 +100,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Projecto2_Alpha4_$connect4.coverage" NAME="Connect4Game Coverage Results" MODIFIED="1778330548507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Projecto2_Alpha4_$Connect4Game.coverage" NAME="Connect4Game Coverage Results" MODIFIED="1778661995674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projecto2_Alpha4_$Connect4Game.coverage" NAME="Connect4Game Coverage Results" MODIFIED="1779449605365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
